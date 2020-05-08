@@ -15,13 +15,19 @@ Test cases
 ==========
 
 Inputs:
+
     (int list) l = [3, 1, 4, 1]
+
 Output:
+
     (int) 4311
 
 Inputs:
+
     (int list) l = [3, 1, 4, 1, 5, 9]
+
 Output:
+
     (int) 94311
 
 Use verify [file] to test your solution and see how it does. When you are finished editing your code, use submit [file] to submit your answer. If your solution passes the test cases, it will be removed from your home folder.
