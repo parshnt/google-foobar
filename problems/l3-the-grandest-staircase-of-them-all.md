@@ -37,7 +37,7 @@ Write a function called `solution(n)` that takes a positive integer n and return
 Languages
 =========
 
-To provide a Python solution, edit solution.py
+To provide a Python solution, edit solution.py  
 To provide a Java solution, edit solution.java
 
 Test cases
