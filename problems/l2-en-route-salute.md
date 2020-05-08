@@ -22,13 +22,19 @@ Test cases
 ==========
 
 Inputs:
+
     (string) s = ">----<"
+
 Output:
+
     (int) 2
 
 Inputs:
+
     (string) s = "<<>><"
+
 Output:
+
     (int) 4
 
 Use verify [file] to test your solution and see how it does. When you are finished editing your code, use submit [file] to submit your answer. If your solution passes the test cases, it will be removed from your home folder.
