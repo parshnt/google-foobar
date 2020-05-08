@@ -17,7 +17,7 @@ This repository contains my journey through Google **foo.bar** a.k.a their "*sec
 
 ### Level 3
 
-- [Bomb Baby](problems/l3-doomsday-fuel.md)
+- [Doomsday Fuel](problems/l3-doomsday-fuel.md)
 - [The Grandest Staircase Of Them All](problems/l3-the-grandest-staircase-of-them-all.md)
 
 ## Solutions
