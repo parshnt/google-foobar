@@ -23,6 +23,7 @@ Test cases
 
 Inputs:
 
+
     (string) s = ">----<"
 
 Output:
