@@ -1,6 +1,6 @@
 # foo.bar
 
-This repository contains my journey through Google **foo.bar** a.k.a their "*secret*" recruitment tool.
+This repository contains my journey through Google **foo.bar** a.k.a their "secret" recruitment test.
 
 ![](snapshot.png)
 
