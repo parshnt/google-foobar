@@ -22,7 +22,7 @@ Write a function solution(plaintext) that takes a string parameter and returns a
 Languages
 =========
 
-To provide a Java solution, edit Solution.java
+To provide a Java solution, edit Solution.java  
 To provide a Python solution, edit solution.py
 
 Test cases
