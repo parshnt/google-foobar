@@ -40,7 +40,7 @@ Languages
 =========
 
 To provide a Python solution, edit solution.py  
-To provide a Java solution, edit solution.java
+To provide a Java solution, edit Solution.java
 
 Test cases
 ==========
